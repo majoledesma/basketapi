@@ -1,0 +1,9 @@
+{
+  "players":[
+ {"id": 7, "name": "Emanuel", "lastname": "Ginóbili", "avatar":"manu1"}, 
+ {"id": 8, "name": "Kobe", "lastname": "Bryant", "avatar":"kobe1"}, 
+ {"id": 6, "name": "LeBron", "lastname": "James", "avatar":"lebron1"}, 
+ {"id": 5, "name": "Michael", "lastname": "Jordan", "avatar":"michael"}, 
+ {"id": 1, "name": "Kyrie", "lastname": "Irving", "avatar":"kyrie1"}
+  ]
+}
